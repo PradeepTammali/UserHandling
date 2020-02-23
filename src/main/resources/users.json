@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "firstname": "Anna",
+    "lastname": "Graham",
+    "username": "angr",
+    "age": 30
+  },
+  {
+    "id": 2,
+    "firstname": "Ervin",
+    "lastname": "Howell",
+    "username": "erho",
+    "age": 24
+  },
+  {
+    "id": 3,
+    "firstname": "Clementine",
+    "lastname": "Bauch",
+    "username": "clba",
+    "age": 54
+  },
+  {
+    "id": 4,
+    "firstname": "Patricia",
+    "lastname": "Lebsack",
+    "username": "pale",
+    "age": 45
+  },
+  {
+    "id": 5,
+    "firstname": "Chelsey",
+    "lastname": "Dietrich",
+    "username": "chdi",
+    "age": 36
+  },
+  {
+    "id": 6,
+    "firstname": "Bob",
+    "lastname": "Schulist",
+    "username": "bosc",
+    "age": 52
+  },
+  {
+    "id": 7,
+    "firstname": "Kurtis",
+    "lastname": "Weissnat",
+    "username": "kuwe",
+    "age": 61
+  },
+  {
+    "id": 8,
+    "firstname": "Nicholas",
+    "lastname": "Runolfsdottir V",
+    "username": "niru",
+    "age": 25
+  },
+  {
+    "id": 9,
+    "firstname": "Glenna",
+    "lastname": "Reichert",
+    "username": "glre",
+    "age": 37
+  },
+  {
+    "id": 10,
+    "firstname": "Salas",
+    "lastname": "DuBuque",
+    "username": "sadu",
+    "age": 39
+  }
+]
